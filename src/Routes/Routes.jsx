@@ -9,31 +9,30 @@ import ErrorPage from "../Pages/ErrorPage";
 const router = createBrowserRouter([
   {
     path: '/',
-    element: <MainLayout/>,
-    children:[
-        {
+    element: <MainLayout />,
+    children: [
+      {
+        index: true, 
+        element: <Home />,
+      },
+      {
+        path: 'home',
+        element: <Home />,
+      },
+      {
+        path: 'apps',
+        element: <Apps />,
+      },
+      {
+        path: 'installation',
+        element: <Installation />,
+      },
+      {
         path: '*', 
-        element: <ErrorPage />, 
-        },
-         
-         {
-            path: '/home',
-            element: <Home/>,
-            
-         },
-         {
-             path: '/apps',
-             element: <Apps/>,
-         },
-         {
-             path: '/installation',
-             element: <Installation/>,
-         },
-
-    ]
+        element: <ErrorPage />,
+      },
+    ],
   },
- 
-  
 ]);
 
 export default router;

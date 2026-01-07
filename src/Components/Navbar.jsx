@@ -56,7 +56,7 @@ const Navbar = () => {
       </div>
       <div className="navbar-end">
     <a 
-        href="https://github.com" 
+        href="https://github.com/Sara-Anni/B12-A08" 
         className="btn bg-[#8B5CF6] hover:bg-[#7C3AED] border-none text-white normal-case rounded-lg px-6 gap-2 flex items-center"><img src={githubIcon} alt="GitHub" className="w-5 h-5 invert" />Contribute
     </a>
 </div>
