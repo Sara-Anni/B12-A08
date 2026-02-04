@@ -13,10 +13,10 @@ const Navbar = () => {
           <ul
             tabIndex="-1"
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-            <li><NavLink to="/home" className={({isActive}) => isActive ? "text-purple-600" : ""}>Home</NavLink></li>
+            <li><NavLink to="/ " className={({isActive}) => isActive ? "text-purple-600" : ""}>Home</NavLink></li>
                     <li><NavLink to="/apps" className={({isActive}) => isActive ? "text-purple-600" : ""}>Apps</NavLink></li>
                     <li><NavLink to="/installation" className={({isActive}) => isActive ? "text-purple-600" : ""}>Installation</NavLink></li>
-          </ul>
+          </ul> 
         </div>
         <div className="navbar-start">
           <div className="flex items-center gap-2">
@@ -32,7 +32,7 @@ const Navbar = () => {
         <ul className="flex items-center gap-8 font-medium text-black">
           <li>
             <NavLink
-              to="/home"
+              to="/"
               className={({ isActive }) =>
                 isActive ? "text-[#642de3] underline underline-offset-4 decoration-2" : "hover:text-[#642de3] transition-colors"
               }>Home</NavLink>

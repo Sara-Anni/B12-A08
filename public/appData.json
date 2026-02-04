@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Flora Digital",
+    "image": "https://i.ibb.co.com/9ktFyRhV/16.png",
+    "description": "Stay focused and present. Plant a seed when you need to put down your phone and get things done.",
+    "size": 124,
+    "reviews": 125000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 }, { "name": "2 star", "count": 3000 }, { "name": "3 star", "count": 5000 }, { "name": "4 star", "count": 15000 }, { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "SmPlan: ToDo List & Reminder",
+    "companyName": "Horizon Apps",
+    "image": "https://i.ibb.co.com/HfVzGq2p/15.png",
+    "description": "Organize your life with ease. Set reminders, manage tasks, and sync across all your devices.",
+    "size": 45,
+    "reviews": 88000,
+    "ratingAvg": 4.7,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 }, { "name": "2 star", "count": 2500 }, { "name": "3 star", "count": 4000 }, { "name": "4 star", "count": 10000 }, { "name": "5 star", "count": 70000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "EduSpark Systems",
+    "image": "https://i.ibb.co.com/nMQVHbr4/14.jpg",
+    "description": "The ultimate study companion. Measure your focus level and compare progress with students worldwide.",
+    "size": 68,
+    "reviews": 210000,
+    "ratingAvg": 4.9,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000 }, { "name": "2 star", "count": 2000 }, { "name": "3 star", "count": 5000 }, { "name": "4 star", "count": 20000 }, { "name": "5 star", "count": 180000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "Whiskers & Code",
+    "image": "https://i.ibb.co.com/5XS9XcV5/12.png",
+    "description": "Boost your productivity with a cute feline companion using the classic Pomodoro technique.",
+    "size": 32,
+    "reviews": 45000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 2000 }, { "name": "3 star", "count": 5000 }, { "name": "4 star", "count": 7000 }, { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ZenJournal: Minimalist Diary",
+    "companyName": "Serene Software",
+    "image": "https://i.ibb.co.com/HfVzGq2p/15.png",
+    "description": "The fastest way to log your thoughts. No titles, no distractions, just your mind on digital paper.",
+    "size": 18,
+    "reviews": 12000,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 500 }, { "name": "2 star", "count": 500 }, { "name": "3 star", "count": 1000 }, { "name": "4 star", "count": 2000 }, { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "HabitHero: Tracker & Goals",
+    "companyName": "Victory Path",
+    "image": "https://i.ibb.co.com/JFtMYBfR/9.png",
+    "description": "Build lasting habits. Track your daily routines and visualize your long-term consistency.",
+    "size": 55,
+    "reviews": 67000,
+    "ratingAvg": 4.8,
+    "downloads": 3000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 1000 }, { "name": "3 star", "count": 3000 }, { "name": "4 star", "count": 12000 }, { "name": "5 star", "count": 50000 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "FlowState: Deep Work Music",
+    "companyName": "Sonic Bloom Studio",
+    "image": "https://i.ibb.co.com/9ktFyRhV/16.png",
+    "description": "Curated lo-fi and ambient sounds designed to help you reach a state of deep concentration.",
+    "size": 89,
+    "reviews": 34000,
+    "ratingAvg": 4.7,
+    "downloads": 1500000,
+    "ratings": [
+      { "name": "1 star", "count": 800 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 2000 }, { "name": "4 star", "count": 5000 }, { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "SwiftNote: Quick Capture",
+    "companyName": "Velocity Tech",
+    "image": "https://i.ibb.co.com/nMQVHbr4/14.jpg",
+    "description": "A lightning-fast notepad for your most urgent thoughts and creative sparks.",
+    "size": 12,
+    "reviews": 15000,
+    "ratingAvg": 4.4,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 900 }, { "name": "2 star", "count": 1100 }, { "name": "3 star", "count": 2000 }, { "name": "4 star", "count": 3000 }, { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "CalmSpace: Breathing Guide",
+    "companyName": "Tranquil Labs",
+    "image": "https://i.ibb.co.com/5XS9XcV5/12.png",
+    "description": "Simple guided breathing to reduce stress and anxiety during your hectic workdays.",
+    "size": 40,
+    "reviews": 28000,
+    "ratingAvg": 4.9,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 200 }, { "name": "2 star", "count": 300 }, { "name": "3 star", "count": 500 }, { "name": "4 star", "count": 2000 }, { "name": "5 star", "count": 25000 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "TaskFlow: Kanban Boards",
+    "companyName": "Agile Matrix",
+    "image": "https://i.ibb.co.com/JFtMYBfR/9.png",
+    "description": "Visual project management for teams. Drag, drop, and get things done with ease.",
+    "size": 76,
+    "reviews": 52000,
+    "ratingAvg": 4.6,
+    "downloads": 2200000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 }, { "name": "2 star", "count": 1800 }, { "name": "3 star", "count": 4000 }, { "name": "4 star", "count": 10000 }, { "name": "5 star", "count": 35000 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "MindNode: Visual Maps",
+    "companyName": "Synapse Creative",
+    "image": "https://i.ibb.co.com/9ktFyRhV/16.png",
+    "description": "Map out your ideas visually. Perfect for planning complex projects or studying topics.",
+    "size": 52,
+    "reviews": 19000,
+    "ratingAvg": 4.5,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 800 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 2000 }, { "name": "4 star", "count": 3000 }, { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "FocusByte: Site Blocker",
+    "companyName": "Digital Shield",
+    "image": "https://i.ibb.co.com/HfVzGq2p/15.png",
+    "description": "Block distracting websites and apps to maximize your daily deep work sessions.",
+    "size": 25,
+    "reviews": 31000,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "ratings": [
+      { "name": "1 star", "count": 600 }, { "name": "2 star", "count": 900 }, { "name": "3 star", "count": 2500 }, { "name": "4 star", "count": 7000 }, { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "EchoRead: Audio Notes",
+    "companyName": "Sonic Wave",
+    "image": "https://i.ibb.co.com/nMQVHbr4/14.jpg",
+    "description": "Listen to your notes on the go for better retention using our premium text-to-speech.",
+    "size": 61,
+    "reviews": 14000,
+    "ratingAvg": 4.3,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 1000 }, { "name": "2 star", "count": 1500 }, { "name": "3 star", "count": 2500 }, { "name": "4 star", "count": 4000 }, { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Solaris: Sleep Optimizer",
+    "companyName": "Restful Minds",
+    "image": "https://i.ibb.co.com/5XS9XcV5/12.png",
+    "description": "Track your sleep cycles and get personalized tips for a better morning routine.",
+    "size": 95,
+    "reviews": 128000,
+    "ratingAvg": 4.8,
+    "downloads": 4000000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 }, { "name": "2 star", "count": 2500 }, { "name": "3 star", "count": 6000 }, { "name": "4 star", "count": 18000 }, { "name": "5 star", "count": 100000 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "PeakFlow: Daily Planner",
+    "companyName": "Summit Productivity",
+    "image": "https://i.ibb.co.com/JFtMYBfR/9.png",
+    "description": "Merge your calendar and to-do list into one single, powerful daily view with AI.",
+    "size": 58,
+    "reviews": 42000,
+    "ratingAvg": 4.7,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 800 }, { "name": "2 star", "count": 1200 }, { "name": "3 star", "count": 3500 }, { "name": "4 star", "count": 6500 }, { "name": "5 star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Nexus: Team Chat",
+    "companyName": "LinkUp Networks",
+    "image": "https://i.ibb.co.com/9ktFyRhV/16.png modern remote teams with integrated file sharing.",
+    "size": 112,
+    "reviews": 95000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000,
+    "ratings": [
+      { "name": "1 star", "count": 4500 }, { "name": "2 star", "count": 5500 }, { "name": "3 star", "count": 10000 }, { "name": "4 star", "count": 15000 }, { "name": "5 star", "count": 60000 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Archive: Cloud Library",
+    "companyName": "Nebula Storage",
+    "image": "https://i.ibb.co.com/HfVzGq2p/15.png",
+    "description": "One place for your documents, PDFs, and web clips with powerful OCR search.",
+    "size": 47,
+    "reviews": 18500,
+    "ratingAvg": 4.4,
+    "downloads": 850000,
+    "ratings": [
+      { "name": "1 star", "count": 1200 }, { "name": "2 star", "count": 1800 }, { "name": "3 star", "count": 2500 }, { "name": "4 star", "count": 3000 }, { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Volt: Expense Tracker",
+    "companyName": "Ledger Logic",
+    "image": "https://i.ibb.co.com/nMQVHbr4/14.jpg",
+    "description": "Track your spending automatically and get detailed insights into your finances.",
+    "size": 39,
+    "reviews": 56000,
+    "ratingAvg": 4.6,
+    "downloads": 2000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000 }, { "name": "2 star", "count": 3000 }, { "name": "3 star", "count": 6000 }, { "name": "4 star", "count": 10000 }, { "name": "5 star", "count": 35000 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Horizon: Goal Visions",
+    "companyName": "Future Vision Labs",
+    "image": "https://i.ibb.co.com/5XS9XcV5/12.png",
+    "description": "Visual vision boards and milestones tracking to keep your long-term goals in sight.",
+    "size": 64,
+    "reviews": 22000,
+    "ratingAvg": 4.8,
+    "downloads": 1100000,
+    "ratings": [
+      { "name": "1 star", "count": 400 }, { "name": "2 star", "count": 600 }, { "name": "3 star", "count": 1000 }, { "name": "4 star", "count": 4000 }, { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Catalyst: Habit RPG",
+    "companyName": "GamePlan Labs",
+    "image": "https://i.ibb.co.com/JFtMYBfR/9.png",
+    "description": "Turn your life into a game. Earn XP for completing chores and level up your character.",
+    "size": 142,
+    "reviews": 89000,
+    "ratingAvg": 4.7,
+    "downloads": 3500000,
+    "ratings": [
+      { "name": "1 star", "count": 1500 }, { "name": "2 star", "count": 2500 }, { "name": "3 star", "count": 5000 }, { "name": "4 star", "count": 15000 }, { "name": "5 star", "count": 65000 }
+    ]
+  }
+]
